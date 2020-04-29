@@ -1,0 +1,34 @@
+th, td, p, input {
+    font:1.2rem montserrat;
+    color: white;
+}
+table, th, td
+{
+    /* border: solid 1px #DDD; */
+    border-collapse: collapse;
+    padding: 2px 3px;
+    margin-left: 2rem
+    text-align: center ;
+
+}
+table{
+  margin-left: auto;
+  margin-right: auto;
+}
+td{
+  width: 12rem;
+  text-align:center;
+
+}
+th {
+    font-weight:bold;
+    margin: auto;
+    text-transform: capitalize;
+
+}
+#last{
+  border: 1px solid black;
+}
+body{
+  background: #1b262c;
+}
